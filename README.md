@@ -3,6 +3,10 @@
 ## Usage
 
 ```bash
+cp .env.example .env
+```
+
+```bash
 ./venv/Scripts/activate
 ```
 
